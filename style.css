@@ -1,0 +1,107 @@
+
+ /** 
+ * Header Area 
+ **/
+.header-top{ 
+	background: #e3e8ef;
+	padding: 1%;
+}
+.menu{
+	margin-left: 150px;
+}
+.menu a{ 
+	text-decoration: none;
+/*	text-transform: uppercase;*/
+	font-weight: bold;
+	margin-left: 10px;
+}
+.menu a:hover{ 
+	color: #657f3b;
+}
+
+
+/*Header ends here------------> */
+
+
+
+/*
+Main area------>
+*/
+
+body { 
+    background-image: url('img/bottle_of_pills.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom right; 
+    background-size: 20%;
+    
+    
+}
+
+
+
+.login{
+	padding: 100px 0;
+	//background: #4b3f34;
+	color: black;
+	width: 100%;
+    background-image: url('img/drug-icon-2316244_640.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top left; 
+    background-size: 13%;
+    
+    
+}
+.login1{
+	padding: 100px 0;
+	//background: #4b3f34;
+	color: black;
+	width: 100%;
+/*
+    background-image: url('img/drug-icon-2316244_640.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top left; 
+    background-size: 13%;
+    scroll-behavior: smooth;
+*/
+    
+    
+}
+.login h1{
+	font-size: 5%;
+	line-height: 0;
+}
+.login a{
+	font-size: 12px;
+	line-height: 0;
+}
+.login span{
+	color: black;
+	font-size: 20px;
+	border-radius: 50%;
+	height: 45px;
+	width: 45px;
+	padding: 15px;
+	text-align: center;
+	transition: 1s;
+	background: #b0cd3b;
+	cursor: pointer;
+	margin-right: 25px;
+	margin-top: 12px;
+}
+.login span:hover{
+	background: rgba(255,255,255,.2);
+	color: #b0cd3b;
+}
+
+.signup{
+	padding: 120px;
+	
+}
+
+/*Footer--------------------------> */
+
+
+
